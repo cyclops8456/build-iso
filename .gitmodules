@@ -129,7 +129,7 @@
 	url = https://github.com/vyos/pmacct.git
 [submodule "pkgs/vyatta-wireless"]
 	path = pkgs/vyatta-wireless
-	url = https://github.com/vyos/vyatta-wireless.git
+	url = https://github.com/cyclops8456/vyatta-wireless.git
 [submodule "pkgs/squidguard"]
 	path = pkgs/squidguard
 	url = https://github.com/vyos/squidguard.git
