@@ -141,7 +141,7 @@
 	url = https://github.com/vyos/vyatta-biosdevname.git
 [submodule "pkgs/linux-firmware"]
 	path = pkgs/linux-firmware
-	url = https://github.com/vyos/linux-firmware.git
+	url = https://github.com/cyclops8456/linux-firmware.git
 [submodule "pkgs/vyatta-lldp"]
 	path = pkgs/vyatta-lldp
 	url = https://github.com/vyos/vyatta-lldp.git
@@ -217,7 +217,7 @@
 	url = https://github.com/vyos/vyos-iptables.git
 [submodule "pkgs/linux-image"]
 	path = pkgs/linux-image
-	url = https://github.com/vyos/vyos-kernel.git
+	url = https://github.com/cyclops8456/vyos-kernel.git
 [submodule "pkgs/vyatta-watchdog"]
 	path = pkgs/vyatta-watchdog
 	url = https://github.com/vyos/vyatta-watchdog.git
