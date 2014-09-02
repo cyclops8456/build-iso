@@ -18,7 +18,7 @@
 	url = https://github.com/vyos/vyatta-cfg-quagga.git
 [submodule "pkgs/vyatta-cfg-system"]
 	path = pkgs/vyatta-cfg-system
-	url = https://github.com/vyos/vyatta-cfg-system.git
+	url = https://github.com/cyclops8456/vyatta-cfg-system.git
 [submodule "pkgs/vyatta-config-migrate"]
 	path = pkgs/vyatta-config-migrate
 	url = https://github.com/vyos/vyatta-config-migrate.git
