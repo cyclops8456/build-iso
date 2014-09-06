@@ -45,7 +45,7 @@
 	url = https://github.com/cyclops8456/vyatta-op-dhcp-server.git
 [submodule "pkgs/vyatta-cfg-dhcp-server"]
 	path = pkgs/vyatta-cfg-dhcp-server
-	url = https://github.com/vyos/vyatta-cfg-dhcp-server.git
+	url = https://github.com/cyclops8456/vyatta-cfg-dhcp-server.git
 [submodule "pkgs/vyatta-dhcp3-client"]
 	path = pkgs/vyatta-dhcp3-client
 	url = https://github.com/vyos/vyatta-dhcp3.git
