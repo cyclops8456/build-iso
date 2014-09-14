@@ -3,7 +3,7 @@
 	url = https://github.com/cyclops8456/vyatta-op.git
 [submodule "pkgs/vyatta-cfg"]
 	path = pkgs/vyatta-cfg
-	url = https://github.com/vyos/vyatta-cfg.git
+	url = https://github.com/cyclops8456/vyatta-cfg.git
 [submodule "pkgs/vyatta-op-firewall"]
 	path = pkgs/vyatta-op-firewall
 	url = https://github.com/vyos/vyatta-op-firewall.git
