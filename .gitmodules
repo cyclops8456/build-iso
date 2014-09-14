@@ -1,6 +1,6 @@
 [submodule "pkgs/vyatta-op"]
 	path = pkgs/vyatta-op
-	url = https://github.com/vyos/vyatta-op.git
+	url = https://github.com/cyclops8456/vyatta-op.git
 [submodule "pkgs/vyatta-cfg"]
 	path = pkgs/vyatta-cfg
 	url = https://github.com/vyos/vyatta-cfg.git
