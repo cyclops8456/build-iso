@@ -36,7 +36,7 @@
 	url = https://github.com/cyclops8456/vyatta-cfg-vpn.git
 [submodule "pkgs/vyatta-bash"]
 	path = pkgs/vyatta-bash
-	url = https://github.com/vyos/vyatta-bash.git
+	url = https://github.com/cyclops8456/vyatta-bash.git
 [submodule "pkgs/vyatta-op-vpn"]
 	path = pkgs/vyatta-op-vpn
 	url = https://github.com/cyclops8456/vyatta-op-vpn.git
