@@ -132,7 +132,7 @@
 	url = https://github.com/vyos/squidguard.git
 [submodule "pkgs/vyatta-strongswan"]
 	path = pkgs/vyatta-strongswan
-	url = https://github.com/vyos/vyatta-strongswan.git
+	url = https://github.com/cyclops8456/vyatta-strongswan.git
 [submodule "pkgs/vyatta-biosdevname"]
 	path = pkgs/vyatta-biosdevname
 	url = https://github.com/vyos/vyatta-biosdevname.git
